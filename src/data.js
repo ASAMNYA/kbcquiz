@@ -1,42 +1,42 @@
 const qdata=[
     {
         id:1,
-        question:'How many continents are there?',
+        question:'Sabina Awale ji is prettiest girl!',
         answers:[
             {
-                option:'3',
-                correct:false,
+                option:'TRUE',
+                correct:true,
             },
             {
-                option:'9',
-                correct:false,
+                option:'TRUE',
+                correct:true,
             },
             {
-                option:'7',
+                option:'TRUE',
                 correct:true,
             },{
-                option:'12',
-                correct:false,
+                option:'TRUE',
+                correct:true,
             }
             
         ]  
     },
     {
         id:2,
-        question:'Who discovered Alternating Current',
+        question:'Who is Sabina Awale?',
         answers:[
                 {
-                    option:'Nikolas Tesla',
+                    option:'Awesome girl',
                     correct:true,
                 },{
-                    option:'Albert Edison',
-                    correct:false,
+                    option:'Best Person',
+                    correct:true,
                 },{
-                    option:'Louis Pasteur',
-                    correct:false,
+                    option:'Wonderful Person',
+                    correct:true,
                 },{
-                    option:'Molly Jane',
-                    correct:false,
+                    option:'Beautiful Person',
+                    correct:true,
                 },
         ]
     },
