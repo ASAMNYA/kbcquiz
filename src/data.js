@@ -1,41 +1,41 @@
 const qdata=[
     {
         id:1,
-        question:'Sabina Awale ji is prettiest girl!',
+        question:'Who owns JAVA ?',
         answers:[
             {
-                option:'TRUE',
+                option:'ORACLE',
                 correct:true,
             },
             {
-                option:'TRUE',
-                correct:true,
+                option:'Vercel',
+                correct:false,
             },
             {
-                option:'TRUE',
-                correct:true,
+                option:'META',
+                correct:false,
             },{
-                option:'TRUE',
-                correct:true,
+                option:'AMAZON',
+                correct:false,
             }
             
         ]  
     },
     {
         id:2,
-        question:'Who is Sabina Awale?',
+        question:'ReactJS was built by',
         answers:[
                 {
-                    option:'Awesome girl',
+                    option:'Frienster',
                     correct:true,
                 },{
-                    option:'Best Person',
+                    option:'Newscorp',
                     correct:true,
                 },{
-                    option:'Wonderful Person',
+                    option:'Alphabet',
                     correct:true,
                 },{
-                    option:'Beautiful Person',
+                    option:'Facebook Inc',
                     correct:true,
                 },
         ]
